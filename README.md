@@ -1,7 +1,7 @@
 ```markdown
 # FactForge-RAG
 
-**FactForge-RAG** is a modular Retrieval-Augmented Generation (RAG) pipeline that combines **LangChain**, **ChromaDB**, and **Groq LLMs** to deliver accurate, context-aware answers from scraped or custom documents.  
+FactForge-RAG is a modular **Retrieval-Augmented Generation (RAG)** pipeline that combines **LangChain**, **ChromaDB**, and **Groq LLMs**.  
 It retrieves relevant knowledge from sources and augments it using a powerful reasoning model.
 
 ---
@@ -9,7 +9,7 @@ It retrieves relevant knowledge from sources and augments it using a powerful re
 ## Features
 - **Web Document Loader**: scrape and ingest sources like Wikipedia or custom URLs  
 - **Text Chunking**: split documents into semantically meaningful chunks  
-- **Embeddings**: generate vector representations using HuggingFace’s `all-MiniLM-L6-v2`  
+- **Embeddings**: generate vector representations using HuggingFace's `all-MiniLM-L6-v2`  
 - **Vector Store**: store and search embeddings efficiently using ChromaDB  
 - **Retriever**: fetch the most relevant context for a query  
 - **LLM Integration**: use Groq LLM (`gpt-oss-120b`) for reasoning and answer generation  
@@ -110,5 +110,11 @@ MIT License – free to use and modify.
 
 ```
 
-If you want, I can also create a **matching `requirements.txt`** so the repo is fully ready to run. Do you want me to do that next?
+This version fixes:  
+- Consistent bolding for section titles and feature names.  
+- Proper inline code formatting using backticks.  
+- Clean horizontal rules (`---`) separating sections.  
+- Proper indentation for code blocks.  
+
+If you want, I can also **optimize it further to be GitHub-ready with badges and links** for a professional look. Do you want me to do that?
 ```

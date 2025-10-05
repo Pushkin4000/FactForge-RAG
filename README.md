@@ -150,9 +150,6 @@ Open a pull request or file an issue on [GitHub Issues](https://github.com/youru
 Built with ❤️ using
 [LangChain](https://www.langchain.com/) • [Groq](https://groq.com/) • [ChromaDB](https://www.trychroma.com/) • [HuggingFace](https://huggingface.co/)
 
----
-
-```
 
 ---
 

@@ -151,7 +151,3 @@ Built with ❤️ using
 [LangChain](https://www.langchain.com/) • [Groq](https://groq.com/) • [ChromaDB](https://www.trychroma.com/) • [HuggingFace](https://huggingface.co/)
 
 
----
-
-
-```
